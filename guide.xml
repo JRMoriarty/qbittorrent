@@ -1,0 +1,1250 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V4.2.3.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+  </channel>
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">RTP 2</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">TVI</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="RTP 3">
+    <display-name lang="pt">RTP 3</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SIC NOTICIAS">
+    <display-name lang="pt">SIC NOTICIAS</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TVI 24">
+    <display-name lang="pt">TVI 24</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SIC MULHER1">
+    <display-name lang="pt">SIC MULHER1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SIC RADICAL">
+    <display-name lang="pt">SIC RADICAL</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="RTP AFRICA">
+    <display-name lang="pt">RTP AFRICA</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="RTP MEMORIA2">
+    <display-name lang="pt">RTP MEMORIA2</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="CANAL V">
+    <display-name lang="pt">CANAL V</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="LOCALVISAO TV1">
+    <display-name lang="pt">LOCALVISAO TV1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="MVM">
+    <display-name lang="pt">MVM</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="REGIOES-TV">
+    <display-name lang="pt">REGIOES-TV</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="DISCOVERY CHANEL">
+    <display-name lang="pt">DISCOVERY CHANEL</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="ODISSEIA">
+    <display-name lang="pt">ODISSEIA</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="HISTORIA">
+    <display-name lang="pt">HISTORIA</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAFHIC CHANNEL">
+    <display-name lang="pt">NATIONAL GEOGRAFHIC CHANNEL</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="NAT GEO WILD">
+    <display-name lang="pt">NAT GEO WILD</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="RTP ACORES">
+    <display-name lang="pt">RTP ACORES</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="AXN1">
+    <display-name lang="pt">AXN1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="FOX CRIME">
+    <display-name lang="pt">FOX CRIME</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="FOX COMEDY GUIA TV">
+    <display-name lang="pt">FOX COMEDY GUIA TV</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="FOX MOVIES">
+    <display-name lang="pt">FOX MOVIES</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="FOX LIFE1">
+    <display-name lang="pt">FOX LIFE1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="AXN WHITE1">
+    <display-name lang="pt">AXN WHITE1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="CANAL HOLLYWOOD">
+    <display-name lang="pt">CANAL HOLLYWOOD</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="MOV1">
+    <display-name lang="pt">MOV1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="AXN BLACK1">
+    <display-name lang="pt">AXN BLACK1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TVC 1 HD">
+    <display-name lang="pt">TVC 1 HD</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TVC 2 HD">
+    <display-name lang="pt">TVC 2 HD</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TVC 3">
+    <display-name lang="pt">TVC 3</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TVC 4">
+    <display-name lang="pt">TVC 4</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TVSERIES HD1">
+    <display-name lang="pt">TVSERIES HD1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="CARTOON NETWORK">
+    <display-name lang="pt">CARTOON NETWORK</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="DISNEY JUNIOR1">
+    <display-name lang="pt">DISNEY JUNIOR1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="BABY TV">
+    <display-name lang="pt">BABY TV</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="JIM JAM">
+    <display-name lang="pt">JIM JAM</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="DISNEY CHANNEL2">
+    <display-name lang="pt">DISNEY CHANNEL2</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="CANAL PANDA1">
+    <display-name lang="pt">CANAL PANDA1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="BIGGS">
+    <display-name lang="pt">BIGGS</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SPORT TV11">
+    <display-name lang="pt">SPORT TV11</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SPORT TV21">
+    <display-name lang="pt">SPORT TV21</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SPORT TV31">
+    <display-name lang="pt">SPORT TV31</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SPORT TV41">
+    <display-name lang="pt">SPORT TV41</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SPORT TV 5">
+    <display-name lang="pt">SPORT TV 5</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="EUROSPORT 1">
+    <display-name lang="pt">EUROSPORT 1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="EUROSPORT 21">
+    <display-name lang="pt">EUROSPORT 21</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="EUROSPORT NEWS1">
+    <display-name lang="pt">EUROSPORT NEWS1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="BENFICA TV">
+    <display-name lang="pt">BENFICA TV</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="BENFICA TV CANAIS">
+    <display-name lang="pt">BENFICA TV CANAIS</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="MOTORS TV">
+    <display-name lang="pt">MOTORS TV</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="PFC">
+    <display-name lang="pt">PFC</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="MCS EXTREME1">
+    <display-name lang="pt">MCS EXTREME1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="MCS BIEN ETRE1">
+    <display-name lang="pt">MCS BIEN ETRE1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="pt">MTV</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="VH12">
+    <display-name lang="pt">VH12</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="MCM TOP">
+    <display-name lang="pt">MCM TOP</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="MCM POP">
+    <display-name lang="pt">MCM POP</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TRACE URBAN">
+    <display-name lang="pt">TRACE URBAN</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="AFRO MUSIC1">
+    <display-name lang="pt">AFRO MUSIC1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="MEZZO1">
+    <display-name lang="pt">MEZZO1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="MUSIC TV">
+    <display-name lang="pt">MUSIC TV</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="VH1 CLASSIC">
+    <display-name lang="pt">VH1 CLASSIC</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="MTV MUSIC1">
+    <display-name lang="pt">MTV MUSIC1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="24 KITCHEN">
+    <display-name lang="pt">24 KITCHEN</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="E">
+    <display-name lang="pt">E</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="ARTE V2">
+    <display-name lang="pt">ARTE V2</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="CBS REALITY">
+    <display-name lang="pt">CBS REALITY</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="MAS CHIC">
+    <display-name lang="pt">MAS CHIC</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="FASHION TV4">
+    <display-name lang="pt">FASHION TV4</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SAT 1 V2">
+    <display-name lang="pt">SAT 1 V2</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="pt">CNN</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SKY NEWS V2">
+    <display-name lang="pt">SKY NEWS V2</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="BBC WORLD-NEWS">
+    <display-name lang="pt">BBC WORLD-NEWS</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="FRANCE 24">
+    <display-name lang="pt">FRANCE 24</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="ALJAZEERA">
+    <display-name lang="pt">ALJAZEERA</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="BLOOMBERG">
+    <display-name lang="pt">BLOOMBERG</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="RECORD NEWS">
+    <display-name lang="pt">RECORD NEWS</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TVGLOBO-PREMIUM">
+    <display-name lang="pt">TVGLOBO-PREMIUM</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TV RECORD">
+    <display-name lang="pt">TV RECORD</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TVE">
+    <display-name lang="pt">TVE</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TELEVISION DE GALICIA">
+    <display-name lang="pt">TELEVISION DE GALICIA</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="ANDALUCIA V2">
+    <display-name lang="pt">ANDALUCIA V2</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="RAI 1">
+    <display-name lang="pt">RAI 1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="BBC ENTERTAINMENT">
+    <display-name lang="pt">BBC ENTERTAINMENT</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TV5 MONDE">
+    <display-name lang="pt">TV5 MONDE</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="M6">
+    <display-name lang="pt">M6</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TELESUR">
+    <display-name lang="pt">TELESUR</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="DW">
+    <display-name lang="pt">DW</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="TCV INTERNACIONAL PAGINA CANAIS">
+    <display-name lang="pt">TCV INTERNACIONAL PAGINA CANAIS</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="INTER TV">
+    <display-name lang="pt">INTER TV</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="ARTV">
+    <display-name lang="pt">ARTV</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="CANCAO NOVA">
+    <display-name lang="pt">CANCAO NOVA</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="RIT">
+    <display-name lang="pt">RIT</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="RTP - HD1">
+    <display-name lang="pt">RTP - HD1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SPORT TV 1 HD2">
+    <display-name lang="pt">SPORT TV 1 HD2</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SPORT TV 2 HD2">
+    <display-name lang="pt">SPORT TV 2 HD2</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SPORT TV 3 HD2">
+    <display-name lang="pt">SPORT TV 3 HD2</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SPORT TV 4 HD">
+    <display-name lang="pt">SPORT TV 4 HD</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SPORT TV 5HD">
+    <display-name lang="pt">SPORT TV 5HD</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="EUROSPORT HD1">
+    <display-name lang="pt">EUROSPORT HD1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC CHANNEL HD1">
+    <display-name lang="pt">NATIONAL GEOGRAPHIC CHANNEL HD1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="DISCOVERY-HD-SHOWCASE">
+    <display-name lang="pt">DISCOVERY-HD-SHOWCASE</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="LUXE TV HD">
+    <display-name lang="pt">LUXE TV HD</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="MYZEN TV HD">
+    <display-name lang="pt">MYZEN TV HD</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="FOX-HD">
+    <display-name lang="pt">FOX-HD</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="ICONCERTS HD">
+    <display-name lang="pt">ICONCERTS HD</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="1mais1">
+    <display-name lang="pt">1mais1</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="24-kitchen">
+    <display-name lang="pt">24-kitchen</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="24-kitchen-hd">
+    <display-name lang="pt">24-kitchen-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="a-bola-tv">
+    <display-name lang="pt">a-bola-tv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="afro-music">
+    <display-name lang="pt">afro-music</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="aljazeera">
+    <display-name lang="pt">aljazeera</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="amc">
+    <display-name lang="pt">amc</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="amc-hd">
+    <display-name lang="pt">amc-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="angelus-tv">
+    <display-name lang="pt">angelus-tv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="artv">
+    <display-name lang="pt">artv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="axn">
+    <display-name lang="pt">axn</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="axn-bl">
+    <display-name lang="pt">axn-bl</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="axb-hd">
+    <display-name lang="pt">axb-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="axn-hd">
+    <display-name lang="pt">axn-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="axn-white">
+    <display-name lang="pt">axn-white</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="axn-white-hd">
+    <display-name lang="pt">axn-white-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="baby-first-tv">
+    <display-name lang="pt">baby-first-tv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="bbc-entertainment">
+    <display-name lang="pt">bbc-entertainment</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="bbc-world">
+    <display-name lang="pt">bbc-world</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="benfica-tv-1">
+    <display-name lang="pt">benfica-tv-1</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="benfica-tv-hd">
+    <display-name lang="pt">benfica-tv-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="bloomberg">
+    <display-name lang="pt">bloomberg</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="bnt">
+    <display-name lang="pt">bnt</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="caca-e-pesca">
+    <display-name lang="pt">caca-e-pesca</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cacavision">
+    <display-name lang="pt">cacavision</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="canal-180">
+    <display-name lang="pt">canal-180</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="canal-arte">
+    <display-name lang="pt">canal-arte</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cancao-nova">
+    <display-name lang="pt">cancao-nova</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cartoon-network">
+    <display-name lang="pt">cartoon-network</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cbs-reality">
+    <display-name lang="pt">cbs-reality</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cctv-4">
+    <display-name lang="pt">cctv-4</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cctv-news">
+    <display-name lang="pt">cctv-news</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="channel-1-russia">
+    <display-name lang="pt">channel-1-russia</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cinemundo">
+    <display-name lang="pt">cinemundo</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cinemundo-hd">
+    <display-name lang="pt">cinemundo-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="clubbing-tv">
+    <display-name lang="pt">clubbing-tv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="clubbing-tv-hd">
+    <display-name lang="pt">clubbing-tv-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cmtv">
+    <display-name lang="pt">cmtv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cmtv-hd">
+    <display-name lang="pt">cmtv-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cnbc-europe">
+    <display-name lang="pt">cnbc-europe</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cnn">
+    <display-name lang="pt">cnn</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cubavision">
+    <display-name lang="pt">cubavision</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="deutsche-welle">
+    <display-name lang="pt">deutsche-welle</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="discovery-channel">
+    <display-name lang="pt">discovery-channel</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="discovery-channel-hd">
+    <display-name lang="pt">discovery-channel-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="disney-channel">
+    <display-name lang="pt">disney-channel</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="disney-junior">
+    <display-name lang="pt">disney-junior</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="dogtv">
+    <display-name lang="pt">dogtv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="e-entertainment">
+    <display-name lang="pt">e-entertainment</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="e-entertainment-hd">
+    <display-name lang="pt">e-entertainment-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="eleven-sports-1">
+    <display-name lang="pt">eleven-sports-1</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="eleven-sports-2">
+    <display-name lang="pt">eleven-sports-2</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="eleven-sports-3">
+    <display-name lang="pt">eleven-sports-3</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="eurochannel">
+    <display-name lang="pt">eurochannel</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="euronews">
+    <display-name lang="pt">euronews</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="eurosport">
+    <display-name lang="pt">eurosport</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="eurosport-2">
+    <display-name lang="pt">eurosport-2</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="eurosport-hd">
+    <display-name lang="pt">eurosport-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="ftv">
+    <display-name lang="pt">ftv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="ftv-hd">
+    <display-name lang="pt">ftv-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fight-network">
+    <display-name lang="pt">fight-network</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox">
+    <display-name lang="pt">fox</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-comedy">
+    <display-name lang="pt">fox-comedy</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-comedy-hd">
+    <display-name lang="pt">fox-comedy-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-crime">
+    <display-name lang="pt">fox-crime</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-crime-hd">
+    <display-name lang="pt">fox-crime-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-hd">
+    <display-name lang="pt">fox-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-life">
+    <display-name lang="pt">fox-life</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-life-hd">
+    <display-name lang="pt">fox-life-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-movies">
+    <display-name lang="pt">fox-movies</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-movies-hd">
+    <display-name lang="pt">fox-movies-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-news">
+    <display-name lang="pt">fox-news</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fr24f">
+    <display-name lang="pt">fr24f</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="france-24-i">
+    <display-name lang="pt">france-24-i</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="globo">
+    <display-name lang="pt">globo</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="globovision">
+    <display-name lang="pt">globovision</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="historia">
+    <display-name lang="pt">historia</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="hollywood">
+    <display-name lang="pt">hollywood</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="hollywood-hd">
+    <display-name lang="pt">hollywood-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="hot">
+    <display-name lang="pt">hot</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="hot-hd">
+    <display-name lang="pt">hot-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="i24-news-f">
+    <display-name lang="pt">i24-news-f</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="i24-news-i">
+    <display-name lang="pt">i24-news-i</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="iconcerts">
+    <display-name lang="pt">iconcerts</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="jimjam">
+    <display-name lang="pt">jimjam</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="kbs-world">
+    <display-name lang="pt">kbs-world</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="kombat-sport">
+    <display-name lang="pt">kombat-sport</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="kombat-sport-hd">
+    <display-name lang="pt">kombat-sport-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="luxe-tv-hd">
+    <display-name lang="pt">luxe-tv-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="m6">
+    <display-name lang="pt">m6</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mas-chic">
+    <display-name lang="pt">mas-chic</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mcm-pop">
+    <display-name lang="pt">mcm-pop</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mcm-top">
+    <display-name lang="pt">mcm-top</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mezzo">
+    <display-name lang="pt">mezzo</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mezzo-live-hd">
+    <display-name lang="pt">mezzo-live-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mtv-dance">
+    <display-name lang="pt">mtv-dance</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mtv-live-hd">
+    <display-name lang="pt">mtv-live-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mtv-music">
+    <display-name lang="pt">mtv-music</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mtv-portugal">
+    <display-name lang="pt">mtv-portugal</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mtv-portugal-hd">
+    <display-name lang="pt">mtv-portugal-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mtv-rocks">
+    <display-name lang="pt">mtv-rocks</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="national-geographic">
+    <display-name lang="pt">national-geographic</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="national-geographic-hd">
+    <display-name lang="pt">national-geographic-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="nba-tv-hd">
+    <display-name lang="pt">nba-tv-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="odisseia">
+    <display-name lang="pt">odisseia</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="panda">
+    <display-name lang="pt">panda</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="panda-biggs">
+    <display-name lang="pt">panda-biggs</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="pfc">
+    <display-name lang="pt">pfc</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="phoenix-cne">
+    <display-name lang="pt">phoenix-cne</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="playboy-tv">
+    <display-name lang="pt">playboy-tv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="playboy-tv-hd">
+    <display-name lang="pt">playboy-tv-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="porto-canal">
+    <display-name lang="pt">porto-canal</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="pro-tv-internacional">
+    <display-name lang="pt">pro-tv-internacional</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="q">
+    <display-name lang="pt">q</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="record-news">
+    <display-name lang="pt">record-news</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtp-1">
+    <display-name lang="pt">rtp-1</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtp-2">
+    <display-name lang="pt">rtp-2</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtp-3">
+    <display-name lang="pt">rtp-3</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtp-acores">
+    <display-name lang="pt">rtp-acores</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtp-africa">
+    <display-name lang="pt">rtp-africa</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtp-madeira">
+    <display-name lang="pt">rtp-madeira</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtp-memoria">
+    <display-name lang="pt">rtp-memoria</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtp-mobile">
+    <display-name lang="pt">rtp-mobile</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtp-1-hd">
+    <display-name lang="pt">rtp-1-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtr-planeta">
+    <display-name lang="pt">rtr-planeta</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="russia-today">
+    <display-name lang="pt">russia-today</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="set-asia">
+    <display-name lang="pt">set-asia</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="set-max">
+    <display-name lang="pt">set-max</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sextreme">
+    <display-name lang="pt">sextreme</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sic">
+    <display-name lang="pt">sic</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sic-caras">
+    <display-name lang="pt">sic-caras</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sic-hd">
+    <display-name lang="pt">sic-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sic-k">
+    <display-name lang="pt">sic-k</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sic-mulher">
+    <display-name lang="pt">sic-mulher</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sic-noticias">
+    <display-name lang="pt">sic-noticias</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sic-noticias-hd">
+    <display-name lang="pt">sic-noticias-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sic-radical">
+    <display-name lang="pt">sic-radical</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sky-news">
+    <display-name lang="pt">sky-news</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv-mais">
+    <display-name lang="pt">sport-tv-mais</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv-mais-hd">
+    <display-name lang="pt">sport-tv-mais-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv1">
+    <display-name lang="pt">sport-tv1</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv1-hd">
+    <display-name lang="pt">sport-tv1-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv2">
+    <display-name lang="pt">sport-tv2</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv2-hd">
+    <display-name lang="pt">sport-tv2-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv3">
+    <display-name lang="pt">sport-tv3</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv3-hd">
+    <display-name lang="pt">sport-tv3-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv4">
+    <display-name lang="pt">sport-tv4</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv4-hd">
+    <display-name lang="pt">sport-tv4-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv5">
+    <display-name lang="pt">sport-tv5</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv5-hd">
+    <display-name lang="pt">sport-tv5-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sporting-tv">
+    <display-name lang="pt">sporting-tv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sporting-tv-hd">
+    <display-name lang="pt">sporting-tv-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sundance-hd">
+    <display-name lang="pt">sundance-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="syfy">
+    <display-name lang="pt">syfy</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="syfy-hd">
+    <display-name lang="pt">syfy-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tcv-internacional">
+    <display-name lang="pt">tcv-internacional</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tlc">
+    <display-name lang="pt">tlc</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="toro-tv">
+    <display-name lang="pt">toro-tv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tpa-internacional">
+    <display-name lang="pt">tpa-internacional</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="trace-tv">
+    <display-name lang="pt">trace-tv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="trace-tv-hd">
+    <display-name lang="pt">trace-tv-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="travel-channel">
+    <display-name lang="pt">travel-channel</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="travel-channel-hd">
+    <display-name lang="pt">travel-channel-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tv-galicia">
+    <display-name lang="pt">tv-galicia</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tv-record">
+    <display-name lang="pt">tv-record</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tv-record-hd">
+    <display-name lang="pt">tv-record-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tv5-monde">
+    <display-name lang="pt">tv5-monde</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvcine-1">
+    <display-name lang="pt">tvcine-1</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvcine-1-hd">
+    <display-name lang="pt">tvcine-1-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvcine-2">
+    <display-name lang="pt">tvcine-2</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvcine-2-hd">
+    <display-name lang="pt">tvcine-2-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvcine-3">
+    <display-name lang="pt">tvcine-3</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvcine-3-hd">
+    <display-name lang="pt">tvcine-3-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvcine-4">
+    <display-name lang="pt">tvcine-4</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvcine-4-hd">
+    <display-name lang="pt">tvcine-4-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tve24h">
+    <display-name lang="pt">tve24h</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvei">
+    <display-name lang="pt">tvei</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvi">
+    <display-name lang="pt">tvi</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvi-ficcao">
+    <display-name lang="pt">tvi-ficcao</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvi-hd">
+    <display-name lang="pt">tvi-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvi24">
+    <display-name lang="pt">tvi24</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvseries">
+    <display-name lang="pt">tvseries</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvseries-hd">
+    <display-name lang="pt">tvseries-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="venus">
+    <display-name lang="pt">venus</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="vh1">
+    <display-name lang="pt">vh1</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="zee-cinema">
+    <display-name lang="pt">zee-cinema</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="zee-tv">
+    <display-name lang="pt">zee-tv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="A Bola TV">
+    <display-name lang="pt">A Bola TV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <programme start="20220608000000 +0100" stop="20220608235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20220609000000 +0100" stop="20220609235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20220610000000 +0100" stop="20220610235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20220611000000 +0100" stop="20220611235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20220612000000 +0100" stop="20220612235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20220613000000 +0100" stop="20220613235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20220614000000 +0100" stop="20220614235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20220615000000 +0100" stop="20220615235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20220616000000 +0100" stop="20220616235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20220617000000 +0100" stop="20220617235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+</tv>
